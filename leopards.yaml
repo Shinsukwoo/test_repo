@@ -1,5 +1,11 @@
 team: leopards.yaml
 
 
-manager: Luke
+manager: Nicholas
 coach: Melissa
+
+members:
+  - Linda
+  - William
+  - David
+  - Dlivia
